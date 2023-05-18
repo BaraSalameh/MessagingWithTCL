@@ -1,0 +1,33 @@
+WARNING: when inserting a new line, don't affect already existing lines!
+
+Node0 message (plaintext) is located in line 11
+Node0 RSA encryption keys (e, n) goes in lines 13-14
+Node0 RSA decryption keys (d, n) goes in lines 15-16
+
+Node1 message (plaintext) is located in line 12
+Node1 RSA encryption keys (e, n) goes in lines 17-18
+Node1 RSA decryption keys (d, n) goes in lines 19-20
+
+Hello every one, Iam Albaraa Salama, Iam the sender
+Hello every one, Iam Dr. Ihab Elaf, Iam the receiver
+3
+3127
+2011
+3127
+3
+3127
+2011
+3127
+
+Node 0 separate procedure value (1-4) located in line 24
+Node 1 separate procedure value (1-4) located in line 25
+1
+1
+
+Diffie-Hellman shared key length indecator (64 = generate 16 byte, 96 = generate 24 byte, 128 = generate 32 byte) located in line 28
+64
+
+In RSA, Here are some key values to use, each back of values are used depending on separation value as following
+separate value: 1 => p = 53, q = 59, e = 3, d = 2011, n = 3127
+separate value: 2 => p = 419, q = 541, e = 2737, d = 46513, n = 226679
+separate value: 3,4 => p = 2147483647, q = 982451653, e = 65537, d = 464473166141266721, n = 2109798858785618491
